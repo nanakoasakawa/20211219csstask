@@ -1,0 +1,35 @@
+h1 {
+  color: rgb(10, 43, 116);
+}
+ul {
+  color: rgb(10, 43, 116);
+}
+ul {
+  list-style: none;
+}
+.parent {
+  display: flex;
+  justify-content: flex-end;
+}
+li {
+  width: 100px;
+}
+.item1 {
+  width: 200px;
+  height: 100px;
+  position: relative;
+  top: 0px;
+  left: 800px;
+}
+.item2 {
+  width: 1200px;
+  height: 250px;
+  background-color: rgb(10, 43, 116);
+}
+h2 {
+  margin-top: 50px;
+  margin-bottom: 0%;
+}
+h2 {
+  font-size: 300%;
+}
