@@ -17,9 +17,9 @@ header h1 {
 }
 header nav {
   float: right;
+  right: 800px;
   margin: 0;
   padding: 0;
-
 }
 li {
   display: inline;
