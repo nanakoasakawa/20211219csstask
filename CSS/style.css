@@ -8,11 +8,18 @@ ul {
   list-style: none;
 }
 .parent {
-  display: flex;
-  justify-content: flex-end;
+  content: "";
+  display: block;
+  clear: both;
+}
+header h1 {
+  float: left;
+}
+header nav {
+  float: right;
 }
 li {
-  width: 100px;
+  display: inline;
 }
 .item1 {
   width: 200px;
